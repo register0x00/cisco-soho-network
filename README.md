@@ -19,5 +19,5 @@ A network architecture designed and simulated in **Cisco Packet Tracer**. This p
 1. Download the `soho.pkt` file.
 2. Open it in **Cisco Packet Tracer**.
 3. Select any PC or Laptop, open the **Desktop** tab, and launch the **Web Browser**.
-4. Enter the Server's IP address (or domain, if DNS is configured) to view the simulated website.
+4. Enter the Server's IP address to view the simulated website.
 
