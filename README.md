@@ -21,4 +21,7 @@ A network architecture designed and simulated in **Cisco Packet Tracer**. This p
 2. Open it in **Cisco Packet Tracer**.
 3. Select any PC or Laptop, open the **Desktop** tab, and launch the **Web Browser**.
 4. Enter the Server's IP address to view the simulated website.
+## ⌨️ Configuration Note
+In this layout, the network is built using standard plug-and-play components. Unlike complex enterprise systems, this SOHO simulation utilizes a standard Layer 2 Switch and a Home Wireless Router that do not require any manual CLI configuration scripts. All basic functions work automatically out of the box.
+
 
